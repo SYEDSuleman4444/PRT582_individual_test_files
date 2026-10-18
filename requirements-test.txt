@@ -1,0 +1,4 @@
+robotframework>=7.0
+robotframework-seleniumlibrary>=6.0
+selenium>=4.20
+locust>=2.30
