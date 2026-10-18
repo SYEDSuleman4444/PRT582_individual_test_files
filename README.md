@@ -6,8 +6,7 @@ Project: Online Movie Booking System
 
 This folder contains testing artefacts to commit alongside the project or in a separate testing repository.
 
-## Important evidence rule
-Only report a test as **PASS** or **FAIL** after running it against the application and saving the real output. A Robot Framework dry run checks syntax/keywords only; it does not prove the website works. Screenshots supplied as examples must not be described as live execution evidence.
+
 
 ## Contents
 - `robot/functional_tests.robot` — starter browser-based functional tests using Robot Framework and SeleniumLibrary.
